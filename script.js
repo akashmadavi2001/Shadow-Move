@@ -20,8 +20,5 @@ document.addEventListener('mousemove', function (e) {
         newShadow += (newShadow ? ',' : '') + shadowX + 'px ' + shadowY + 'px 0px  rgb(51, 51, 51,' + opacity + ')';
 
         text.style.textShadow = newShadow;
-
-        console.log(newShadow);
-
     }
 });
