@@ -12,7 +12,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #666;
+    background-color: #667;
     position: relative;
 }
 
@@ -37,3 +37,4 @@ body {
                 0 0 50px white,
                 0 0 100px white;
 }
+
